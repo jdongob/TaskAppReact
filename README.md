@@ -15,7 +15,8 @@ npm install react <br />
 > Install External Library :
 react icons
 
-npm install react-icons --save
+npm install react-icons --save <br />
+<br />
 
 > Install External Library : 
 uuid : Universal Unique Identifier
